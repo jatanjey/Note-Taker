@@ -19,4 +19,6 @@ The Notes App is a simple web application that allows users to create, view, and
 
 ## Usage
 
--acess link with heroku, if you cant interact wiht the buttons then refresh the page
+-access link with heroku, if you cant interact with the buttons then refresh the page
+https://jatannotetaker-ffe072f03e43.herokuapp.com/notes
+or you can fork the code and run the port it gives on localhost
